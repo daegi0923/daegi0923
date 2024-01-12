@@ -20,5 +20,5 @@
 
 ![Daegi's GitHub stats](https://github-readme-stats.vercel.app/api?username=daegi0923&show_icons=true&theme=radical)
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daegi0923)(https://solved.ac/daegi0923/)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daegi0923)
 
