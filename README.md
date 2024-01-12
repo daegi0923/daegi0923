@@ -13,7 +13,6 @@
 ---
 
 ### Education
----
 📖 Pusan National University, Industrial Engineering (2017.03 ~ 2023.02)
 
 ---
