@@ -1,10 +1,6 @@
 ## Hi Welcome, i`m Daegi Yeo 👋
-
-### Education
 ---
-📖 Pusan National University, Industrial Engineering (2017.03 ~ 2023.02)
 
----
 
 ### 🛠️ Stacks
 
@@ -16,7 +12,10 @@
 
 ---
 
-
+### Education
+---
+📖 Pusan National University, Industrial Engineering (2017.03 ~ 2023.02)
+---
 
 ![Daegi's GitHub stats](https://github-readme-stats.vercel.app/api?username=daegi0923&show_icons=true&theme=radical)
 
