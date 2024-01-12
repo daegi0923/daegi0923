@@ -1,6 +1,6 @@
 ## Hi Welcome, i`m Daegi Yeo 👋
 
-![siu](https://github.com/daegi0923/daegi0923/assets/156268579/821617c6-fff5-412a-984e-f2a89f73f7ef)
+![giphy](https://github.com/daegi0923/daegi0923/assets/156268579/909a2eb5-3082-4e1a-84e8-831f6be1cbbc)
 
 
 ### 🛠️ Stacks
