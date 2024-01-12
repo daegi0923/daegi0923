@@ -1,5 +1,6 @@
 ### Hi Welcome, i`m Daegi Yeo 👋
 
+---
 
 🛠️ Stacks
 
@@ -12,7 +13,7 @@
 
 
 
-💪🏼 ToolsAbout me
+🐯 About me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daegi0923@gmail.com)](daegi0923@gmail.com)
 
