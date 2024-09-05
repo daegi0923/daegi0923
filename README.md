@@ -15,6 +15,7 @@
 
 ### Education
 
+
 📖 Pusan National University, Industrial Engineering (2017.03 ~ 2023.02)
 💻 Samsung Software Academy For Youth(SSAFY) 11th (2024.01 ~ )
 ---
