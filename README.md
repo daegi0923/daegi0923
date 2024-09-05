@@ -16,7 +16,7 @@
 ### Education
 
 📖 Pusan National University, Industrial Engineering (2017.03 ~ 2023.02)
-
+💻 Samsung Software Academy For Youth(SSAFY) 11th (2024.01 ~ )
 ---
 
 ![Daegi's GitHub stats](https://github-readme-stats.vercel.app/api?username=daegi0923&show_icons=true&theme=radical)
@@ -24,6 +24,11 @@
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daegi0923)
 
 ---
+### Awards
+🏆 SSAFY 1학기 성적우수상
+🏆 SSAFY 공통프로젝트 우수상(Street Coding Fighter)
+---
+
 
 ### 🐯 About me
 
