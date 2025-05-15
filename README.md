@@ -1,8 +1,11 @@
 ## Hi there, I'm Daegi Yeo 👋
 
-끈기 있는 태도로 문제를 끝까지 해결하며, **팀원들과의 적극적인 소통**을 통해 최적의 솔루션을 만들어가는 프론트엔드 개발자입니다.  
-프론트엔드 중심으로 **백엔드와 인프라**까지 두루 경험하여 **웹 서비스 구조와 데이터 흐름**에 대한 깊은 이해를 바탕으로 개발합니다.  
-**복잡한 문제를 해결하고, 기술로 가치를 창출하는 과정**에서 큰 열정을 느끼며, **피드백을 적극 수용**하여 스스로와 팀의 성장을 지향합니다.  
+- 프론트엔드 개발자로서, **사용자 경험의 흐름이 끊기지 않도록 설계**하는 것을 중요하게 생각합니다.
+
+- 팀에 긍정적인 영향을 주기 위해, 제가 먼저 적극적으로 임하고 **에너지 레벨을 높이는** 것을 항상 의식합니다.
+
+- 단순히 잘 동작하는 서비스를 넘어서, **사용할 맛이 나는 서비스**를 만드는 것에 더 큰 가치를 둡니다.
+
 
 ---
 
@@ -27,7 +30,15 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
 
 ---
+### Projects
+| 프로젝트명 | 기간 | 설명 | 담당 역할 | 기술 스택 | 링크 |
+|------------|------|------|-----------|-----------|------|
+| SSAIM | 2024.10 ~ 2024.11 | 생성형 AI 기반 협업툴 | 프론트엔드 | React, TypeScript, Zustand, React-Query | [GitHub](https://github.com/daegi0923/SSAIM) |
+| Newscrab | 2024.08 ~ 2024.10 | 뉴스 추천 서비스 | 팀장, 백엔드, 인프라 | FastAPI, AWS EC2, Jenkins, Docker | [GitHub](https://github.com/daegi0923/Newscrab) |
+| StreetCodingFighter | 2024.07 ~ 2024.08 | 코딩 교육 플랫폼 | 팀장, 프론트엔드 | React, JavaScript, Zustand | [GitHub](https://github.com/daegi0923/StreetCodingFighter) |
 
+
+---
 ### 🏆 Achievements
 
 - **SSAFY 1학기 성적우수상**
